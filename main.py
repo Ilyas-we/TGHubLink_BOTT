@@ -6,7 +6,7 @@ from aiogram.utils.keyboard import InlineKeyboardBuilder
 import asyncio
 
 # ================= НАСТРОЙКИ =================
-BOT_TOKEN = "8875018275:AAGRimeltrRLKe0ClKkOhP7YnsNN554RCnI"
+BOT_TOKEN = "8875018275:AAHotxn3Y1ryJGRy0zerD5_9qpoRXKCtBEU"
 
 # Ссылки
 CHANNEL_LINK = "https://t.me/tghublive"     # ← Замени
